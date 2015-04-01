@@ -1,1 +1,3 @@
-name, date, description
+Jiaju Huang 
+March 31, 2015
+Lab4 load texture image on the object. Load a hidden image on the html, read the image, make it on the surface of the 3d object.
